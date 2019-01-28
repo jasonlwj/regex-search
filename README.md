@@ -1,2 +1,2 @@
 # regex-search
-A simple tool for searching a directory against a regex
+Opens all .txt files in a folder and searches for any line that matches a user-supplied regular expression.
